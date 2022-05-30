@@ -21,4 +21,4 @@
 <img src="https://komarev.com/ghpvc/?username=DobrevaYoana">
 </a>
 
-<a href="https://github.comDobrevaYoana?tab=followers"><img src="https://img.shields.io/github/followers/DobrevaYoana?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/DobrevaYoana?tab=followers"><img src="https://img.shields.io/github/followers/DobrevaYoana?label=Followers&style=social" alt="GitHub Badge"></a>
