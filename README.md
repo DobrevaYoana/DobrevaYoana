@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoana</h1>
-<h3 align="center">I am a 22 years old student who is extremely motivated to constantly grow professionally and also I want to gain experience in Front - End development.</h3>
+<h3 align="center">I am a 22 years old student who is extremely motivated to constantly grow professionally and also I want to gain experience in Web Development.</h3>
 
 - 🌱 I’m currently studing **Information Technology at New Bulgarian University and Web Development at Software University**
 
